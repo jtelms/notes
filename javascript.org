@@ -1,6 +1,0 @@
-#+title: Javascript Notes (based on mdn web docs by Mozilla)
-#+author: Travis Willison
-#+date: <2023-11-07 Tue>
-
-* What is Javascript
-Javascript is the language of the modern web and interactive websites. Its a lightweight interpreted (just-in-time compiled) language with first-class functions (functions act like variables).
