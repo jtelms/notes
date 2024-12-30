@@ -1,0 +1,163 @@
+#+TITLE: German Notes
+
+* Verb Conjugations
+** Subjects
+  | Ich(I) | Wir(We) |
+  |Du (inf. You )| Vir(plur. inf. You) |
+  |Er(He), Sie(She), Es(It) | sie(they), Sie(form. You) |
+
+** Rules for Conjugation
+  Three basic rules for past and present tense
+
+  1. Begin with the infinitive form: The "dictionary" form, "to play" translates to "spielen"
+  2. Drop the infinitive ending to find the stem: there are three regular verb endings (-en, -eln, -ern), only drop the final -n on -eln and -ern
+  3. Add the ending for the subject and tense: for "arbeiten"(to work) to "Ich arbeite"(I work).
+
+  There are several verbs that do not fall under these categories and have irregular endings, you just have to study and memorize these endings, however, these are irregular verbs are common words so it should come quickly.
+
+** The Present Tense
+*** Regular Verbs: -en, Machen(to make, to do)
+    | mache | machen |
+    | machst | macht |
+    | macht | machen |
+
+*** Regular Verbs: -eln, Klingeln(to ring)
+    | klingele/klingle | klingeln |
+    | klingelst | klingelt |
+    | klingelt | klingeln |
+
+*** Regular Verbs: -ern, Klettern(to climb)
+    | klettere | klettern |
+    | kletterst | klettert |
+    | klettert | klettert | 
+
+*** The Irregular Verbs
+    1. Sein(to be)
+    | bin | sind |
+    | bist | seid |
+    | ist | sind |
+
+    2. Essen(to eat)
+    | esse | essen |
+    | isst | esst | 
+    | isst | essen |
+
+    Just a note, the verb "Fressen(to eat[for animals])" uses the same pattern
+
+    3. Wollen(to want)
+    | will | wollen |
+    | willst | wollt |
+    | will | wollen |
+
+    4. K"o"nnen(to be able)
+    | kann | k"o"nnen |
+    | kannst | k"o"nnt |
+    | kann | k"o"nnen |
+
+    5. Haben(to have)
+    | habe | haben |
+    | hast | habt |
+    | hat | haben |
+
+    6. Werden(to become [a helping verb, used for future tense])
+    | werde | werden |
+    | wirst | werdet |
+    | wird | werden |
+
+*** Mixed Verbs: Bringen(to bring)
+    As a note, mixed verbs sometimes act like regular and in other tenses might act differently.
+    This verb follows the standard -en pattern, as to other such as: denken(to think) kennen(to be familiar with) and wissen(to know a fact)
+    
+    | bringe | bringen |
+    | bringst | bringt |
+    | bringt | bringen |
+
+** The Past Tense: The Pr"a"tertium
+   This is the simple past tense because it only involves one verb. For regulars, there is a t in front of all endings, the /ich/ and /er, sie, es/ forms are mirrored as are /wir/ and /Sie/ endings.
+
+   Irregular verbs may follow some of these patterns, however this is not universal, the stems commonly change often.
+
+*** Regular Verbs: Machen(to make)
+    | machte | machten |
+    | machtest | machtet |
+    | machte | machten |
+
+*** Regular Verbs: Klingeln(to ring)
+    | klingelte | klingelten |
+    | klingeltest | klingeltet
+    | klingelte | klingelten |
+
+*** Regular Verbs: Klettern(to climb)
+    | kletterte | kletterten |
+    | klettertest | klettertet |
+    | kletterte | kletterten |
+
+*** Irregular Verbs in Past Tense
+    1. Sein(to be)
+       | war | waren |
+       | warst | wart |
+       | war | waren |
+
+    2. Essen(to eat)
+    | a'ss | a'ssen |
+    | a'ssest | a'sst |
+    | a'ss | a'ssen |
+
+    3. Wollen(to want)
+    | wollte | wollten |
+    | wolltest | wolltet |
+    | wollte | wollten |
+
+    4. K"o"nnen(to be able)
+    | konnte | konnten |
+    | konntest | konntet | 
+    | konnte | konnten |
+
+    5. Haben(to have)
+    | hatte | hatten |
+    | hattest | hattet |
+    | hatte | hatten |
+
+    6. Werden(to become)
+    | wurde | wurden |
+    | wurdest | wurdet |
+    | wurde | wurden |
+
+*** Mixed Verbs
+
+  The stems are very different from present tense, for bringen it is brach-. There is a similar theme for verbs like denken(dach-), and kennen(kann-). The endings end up being similar to the past tense.
+
+    *Bringen(to bring)
+    | bracte | brachten |
+    | brachtest | brachtet |
+    | bracte | brachten |
+
+** The Future Tense
+   This is a simple tense because it takes the form of werden conjugated + the inifintive form of the verb.
+
+*** Regular Verbs: Machen(to make, to do)
+    | Ich   werde   machen |
+    | Du    wirst   machen |
+    | Er/Sie/Es   wird    machen |
+    | Wir   werden    machen |
+    | Ihr   werdet    machen |
+    | sie/Sie   werden    machen |
+
+*** Irregular Verbs: Sein(to be)
+    | Ich   werde   sein |
+    | Du    wirst   sein |
+    | Er/Sie/Es   wird    sein |
+    | Wir   werden    sein |
+    | Ihr   werdet    sein |
+    | sie/Sie   werden    sein |
+
+*** Mixed Verbs: Bringren(to bring)
+    | Ich   werde   bringen |
+    | Du    wirst   bringen |
+    | Er/Sie/Es   wird    bringen |
+    | Wir   werden    bringen |
+    | Ihr   werdet    bringen |
+    | sie/Sie   werden    bringen |
+
+* Articles, Definite and Indefinite
+
