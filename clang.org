@@ -1,7 +1,95 @@
 #+TITLE: C Programming Language
 * Intro to C
+  The approach to this instructional text is to make the first chapter a sampler of rudimentary features of the language. It is not going to be extensive, elegant, nor precise: this is the basics of writing C, later chapters will repeat pieces seen here, but also expand on these concepts.
 ** Getting Started
+   The first program, common practice to all languages, is here: Hello World. It takes someone through text editing, compilation, and execution. This is the process all programming takes.
+   In C, Hello World looks like:
+   #+BEGIN_SRC c 
+    #include <stdio.h>
+    
+   main()
+   {
+      printf("hello, world\n");
+   }
+   #+END_SRC
+
+   Running this program is dependent on operating system. Specifically, for Linux, you must create the program in a file with the ``.c, such as hello.c, then compile the program with the gcc command.
+
+   gcc hello.c
+
+   From here, as long as there are no issues in the program, there should be a new *a.out* file created alongside our original file. Running this output file should run our program. On Linux, `./*filename.out* ` should execute this file.
+
+A C program, whatever the size, consists of functions and variables. A function contains statements that specify the operations to be done. A variable stores values used during computation. Normally, a function can have any name, but *main* is special, it is the entry point for a program, meaning that it must be present in every program.
+
+*main* will usually call other functions to perform its job, some bespoke to the program, some lifted from libraries. The very first line `#include <stdio.h>` tells the compiler to include information from the standard input/output library; the line appears in many C source files.
+ 
+  One method of communicating data between functions is for the calling function to provide a list of values, or *arguments*, to the function it calls. The parentheses after the function name is where these arguments are provided.
+
+   In the previous example, the main function is expecting no arguments, so the parentheses are left empty. The statements of a function are bounded within braces {}. The main function before only contains one statement.
+
+   printf("hello, world\n");
+
+  A function is called by naming it, followed by a parentheses to provide any necessary arguments. *printf* is a function from the standard input/output library that prints output, delimited by quotation marks.
+
+  A sequence of characters in double quotes is a *character string*, or *string constant*.
+   
+  The sequence \n in the string is C notation for a newline character, which when printed outputs the next empty line. If left out, there will be no new line printed to standard output. The \n represents a single character, and is called an *escape sequence*, which represent hard to type or invisible character. 
 ** Variables for Artithmetic Expressions
+   The next program performs the coversion between Celcius and Fahrenheit [C = (5/9)(F-32)]. The program itself creates and prints a table of conversions at regular intervals, the program is also more complex than the hello world, but not complicated.
+   We still use *main()* to enter and use our program:
+
+   #+BEGIN_SRC c
+    #include <stdio.h>
+
+    /* print fahrenheit-celcius table
+        for fahr = 0, 20, ..., 300 */
+  main () {
+    int fahr, celcius;
+    int lower, upper, step;
+
+    lower = 0;    /* lower limit of temps */
+    upper = 300;  /* upper limit */
+    step = 20;    /* interval size */
+
+    fahr = lower;
+    while (fahr <= upper) {
+        celcius = 5 * (fahr-32) / 9;
+        printf("%d\t%d\n", fahr, celcius);
+        fahr = fahr + step;
+   }
+  }
+   #+END_SRC
+Some things to note: text set between \/* and */ are comments and not compiled or run in the final program and can appear anywhere a blank, tab, or newline can appear.
+
+In C all variables must be declared before use, conventionally placed at the start of a function before statements. A declaration announces the properties of variables, consisting of names and a list of variables:
+
+   int fahr, celcius;
+   int lower, upper, step;
+
+The type *int* means that variables in the list are integers; as compared to *float*, declaring floating point numbers, and so on. The range between *int* and *float* depend on the machine used; 16-bit integers lie between -32768 and +32767. A float is typically a 32-bit value between 10^-38 and 10^38.
+   C provides other data types beside int and float:
+
+   | char | character - a single byte |
+   | short | a short integer |
+   | long | a long integer |
+   | double | double-precision floating point |
+   
+  The size of these objects is machine dependent. There are also arrays, structures, and unions of these basic types, pointers to them, and functions that return them.
+
+   Computing the temperature begins with assignment statements:
+
+   lower = 0;
+   upper = 300;
+   step = 20;
+
+   these set the variables to their initial values. Individual statements are terminated with semi-colons.
+
+   Each line of the table is computed the same way, using a loop that repeats once per line of output; thus the use of the *while* loop.
+
+   while (fahr <= upper) {...}
+
+   The while loop operates by testing the condition in the parentheses, if the condition is true, the code in the body is executed, then the condition is tested again until the condition is false and breaks the loop. The 
+
 ** The *for* Statement
 ** Symbolic Constants
 ** Character Input and Output

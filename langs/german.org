@@ -159,5 +159,5 @@
     | Ihr   werdet    bringen |
     | sie/Sie   werden    bringen |
 
-* Articles, Definite and Indefinite
-
+* Articles, Gender, and Cases
+** 
