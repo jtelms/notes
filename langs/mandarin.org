@@ -1,0 +1,196 @@
+#+TITLE: Mandarin Chinese Notes
+
+* HSK1 Learning Objectives
+  - *The 150 most common words*
+  - *Basic Pronouns*
+  - *Classifiers*
+  - *Nouns*
+  - *Verbs*
+  - *Other Parts of Speech*
+  - *Express time, age, money, and numbers*
+  - *Basic Sentence Structures: Questions, Negatives, Imperatives*
+* HSK1 Grammar Overview
+  - Counting and Numbers
+  - Express time
+  - Express date
+  - 的(de)
+  - General Questions 吗(ma) and 呢(ne)
+  - Wh-Questions
+  - "是（shi4)...的(de)" Sentence
+  - 不(bu4) and 没(me2i)
+  - 二(e4r) and 两(lia3ng)
+  - 会(hui4) and 能(ne2ng)
+  - Three Special Sentence Structures
+  - 了(le)
+  - Serial Verbs Sentence
+* HSK1 Vocabulary List
+  | Chinese | Pinyin | English |
+  | Personal Pronouns |
+  | 我 | wo3  | I, me |
+  | 我们 | wo3men | we, us(pl.) |
+  | 你 | ni3 | you |
+  | 你们 | ni3men | you(pl.) |
+  | 他 | ta1 | he, him |
+  | 她 | ta1 | she, her |
+  | 它 | ta1 | it |
+  | 他们 | ta1men | they(male + female/male(pl.)) |
+  | 她们 | ta1men | they(females, pl.) |
+  | 它们 | ta1men | they(neut.) |
+  | Demonstrative Pronouns |
+  | 这（这儿）| zhe4 (zhe4r) | here, this |  
+  | 那（哪儿）| na4 (na4r) | there, that |
+  | Interrogative Pronouns |
+  | 哪（哪儿）| na3 (na3r) | where |
+  | 谁 | shui2 | who |
+  | 什么 | she2n me | what, why |
+  | 多少 | duo1sha3o | how many, how much |
+  | 几 | ji3 | a few, how many |
+  | 怎么 | ze3nme | how |
+  | 怎么样 | ze3nmeya4ng | how about |
+  | Numerals |
+  | 一 | yi1 | one |
+  | 二 | e4r | two |
+  | 三 | sa1n | three |
+  | 四 | si4 | four |
+  | 五 | wu3 | five |
+  | 六 | liu4 | six |
+  | 七 | qi1 | seven |
+  | 八 | ba1 | eight |
+  | 九 | jiu3 | nine |
+  | 十 | shi2 | ten |
+  | 零 | li2ng | zero|
+  | Quantifiers |
+  | 个 | ge4 | one, a, an |
+  | 岁 | sui4 | year |
+  | 本 | be3n | volume |
+  | 些 | xie1 | some |
+  | 快 | kua4i | piece |
+  | Adverbs |
+  | 不 | bu4 | no |
+  | 没 | me2i | no |
+  | 很 | he3n | quite, very |
+  | 太 | ta4i | too |
+  | 都 | do1u | all |
+  | Conjunction |
+  | 和 | he2 | and |
+  | Preposition |
+  | 在 | za4i | in, at |
+  | Auxiliary |
+  | 的 | de |
+  | 了 | le |
+  | 吗 | ma |
+  | 呢 | ne |
+  | Interjection |
+  | 喂 | we4i | hello |
+  | Nouns |
+  | 家 | jia1 | home |
+  | 学校 | xue2xia4o | school |
+  | 饭店 | fa4ndia4n | restaurant |
+  | 商店 | sha1ngdia4n | store |
+  | 医院 | yi1yua4n | hospital |
+  | 火车站 | huo3che1zha4n | train station |
+  | 中国 | zho1ngguo2 | China |
+  | 北京 | be3iji1ng | Beijing |
+  | 上 | sha4ng | up |
+  | 下 | xia4 | down |
+  | 前面 | qia2nmia4n | front |
+  | 后面 | ho4umia4n | behind |
+  | 里面 | li3mia4n | inside |
+  | 今天 | ji1ntia1n | today |
+  | 明天 | mi2ngtia41 | tomorrow |
+  | 昨天 | zuo2tia1n | yesterday |
+  | 上午 | sha4ngwu3 | morning |
+  | 中午 | zho1ngwu3 | noon |
+  | 下午 | xia4wu3 | afternoon |
+  | 年 | nia2n | year |
+  | 月 | yue4 | month |
+  | 日 | ri4 | day |
+  | 星期 | xi1ngqi1 | week |
+  | 点 | dia3n | dot, spot |
+  | 分钟 | fe1nzho1ng | minute |
+  | 现在 | xia4nza4i | now |
+  | 时候 | shi2hou | time |
+  | 爸爸 | ba4ba | father |
+  | 妈妈 | ma1ma | mother |
+  | 儿子 | e2rzi | son |
+  | 奴儿 | nu:3e2r | daughter |
+  | 老师 | la3oshi1 | teacher |
+  | 学生 | xue2she1ng | student |
+  | 同学 | to2ngxue2 | schoolmate |
+  | 朋友 | pe2ngyou | friend |
+  | 医生 | yi1she1ng | doctor |
+  | 先生 | xia1nsheng | Sir |
+  | 小姐 | xia3ojie3 | Miss |
+  | 衣服 | yi1fu | cloth |
+  | 水 | shui3 | water |
+  | 菜 | ca4i | vegetable |
+  | 米饭 | mi3fan | rice |
+  | 水果 | shui3guo3 | fruit |
+  | 苹果 | pi2ngguo3 | apple |
+  | 茶 | cha2 | tea |
+  | 杯子 | be1izi | cup |
+  | 钱 | qia2n | money |
+  | 飞机 | fe1iji1 | airplane |
+  | 出租车 | chu1zu1che1 | taxi |
+  | 电视 | dia4nshi4 | television |
+  | 电脑 | dia4nna3o | computer |
+  | 电影 | dia4nyi3ng | movie |
+  | 天气 | tia1nqi4 | weather |
+  | 猫 | ma1o | cat |
+  | 狗 | go3u | dog |
+  | 东西 | do1ngxi | thing |
+  | 人 | re2n | person |
+  | 名字 | mi2ngzi | name |
+  | 书 | shu1 | book |
+  | 汉语 | ha4nyu3 | Mandarin Chinese |
+  | 字 | zi4 | character |
+  | 桌子 | zhuo1zi | desk |
+  | 椅子 | yi3zi | chair |
+  | Verbs |
+  | 谢谢 | xie4xie | thank |
+  | 不客气 | bu2ke4qi4 | you are welcome |
+  | 再见 | za4ijia4n | goodbye |
+  | 请 | qi3ng | please |
+  | 对不起 | dui4bu4qi3 | sorry |
+  | 没关系 | me2igua1nxi4 | it doesn't matter |
+  | 是 | shi4 | be( am, is, are) |
+  | 有 | yo3u | have |
+  | 看 | ka4n | look |
+  | 听 | ti1ng | listen |
+  | 说话 | shuo1hua4 | speak |
+  | 读 | du2 | read |
+  | 写 | xie3 | write |
+  | 看见 | ka4njia4n | see |
+  | 叫 | jia4o | call |
+  | 来 | la2i | come |
+  | 回 | hui2 | return |
+  | 去 | qu4 | go |
+  | 吃 | chi1 | eat |
+  | 喝 | he1 | drink |
+  | 睡觉 | shui4jia4o | sleep |
+  | 打电话 | da4dia4nhua4 | call up |
+  | 做 | zuo4 | do |
+  | 买 | ma3i | buy |
+  | 开 | ka1i | open |
+  | 坐 | zuo4 | sit |
+  | 住 | zhu4 | live |
+  | 学习 | xue2xi2 | study |
+  | 工作 | go1ngzuo4 | work |
+  | 下雨 | xia4yu3 | rain |
+  | 哎 | a4i | love |
+  | 喜欢 | xi3hua1n | love, like |
+  | 想 | xia3ng | want |
+  | 认识 | re4nshi | know |
+  | 会 | hui4 | can |
+  | 能 | ne2ng | can, be able to |
+  | Adjective |
+  | 好 | ha3o | good |
+  | 大 | da4 | big |
+  | 小 | xia3o | small |
+  | 多 | duo1 | many, much |
+  | 少 | sha3o | few, little |
+  | 冷 | le3ng | cold |
+  | 热 | re4 | hot |
+  | 高兴 | ga1oxi4ng | happy |
+  | 漂亮 | pia4olia4ng | beautiful |
+
