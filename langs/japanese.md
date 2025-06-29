@@ -41,7 +41,7 @@
 # Genki Chapter 12: Feeling Ill (*病気*: byouki) 
 
 
-# Kanji and Vocabulary
+# WaniKani Level 1: Kanji and Vocabulary
 
 ## 上
     Meanings: Above, Up, Over
@@ -168,3 +168,125 @@
     - 三（さん）: Three
     - 三人（さんにん）: Three People
     - 三つ（みっつ）: Three Things
+## 二
+    Meanings: Two
+    On'yomi: に
+    Kun'yomi: ふた
+    Related Vocabulary:
+    - 二（に）：Two
+    - 二人（ふたり）：Two People
+    - 二つ（ふたつ）：Two Things
+## 女
+    Meanings: Woman
+    On'yomi: じょ、にょ、にょう
+    Kun'yomi: おんな、め
+    Related Vocabulary:
+    - 女（おんな）：Woman
+
+# Wani Kani Level 2: Kanji and Vocabulary
+
+## 刀
+    Meanings: Sword, Katana
+    On'yomi: とう
+    Kun'yomi: かたな
+## 土
+    Meanings: Dirt, Earth, Ground
+    On'yomi: ど、と
+    Kun'yomi: つち
+## 千
+    Meanings: Thousand
+    On'yomi: せん
+    Kun'yomi: ち
+## 子
+    Meanings: Child, Kid
+    On'yomi: し、す
+    Kun'yomi: こ
+## 小
+    Meanings: Small, Little
+    On'yomi: 小
+    Kun'yomi: ちい、こ、お
+## 丁
+    Meanings: Street
+    On'yomi: ちょう、てい
+## 丸
+    Meanings: Circle, Circular, Round
+    On'yomi: がん
+    Kun'yomi: まる
+    Related Vocabulary:
+    - 丸（まる）： Circle
+    - 丸い（まるい）： Circular
+## 才
+    Meanings: Talent
+    On'yomi: さい
+    Related Vocabulary: 
+    - ～才(～さい）： ~ Years Old
+## 中
+    Meanings: Middle, In, Inside, Center
+    On'yomi: ちゅう
+    Kun'yomi: なか
+## 六
+    Meanings: Six
+    On'yomi: ろく
+    Kun'yomi: む
+    Related Vocabulary:
+    - 六（ろく）： Six
+    - 十六（じゅうろく）： Sixteen
+    - むっつ（むっつ）： Six Things
+##  円
+    Meanings: Yen, Round, Circle
+    On'yomi: えん
+    Kun'yomi: まる
+## 手
+    Meanings: Hand, Doer
+    On'yomi: しゅ、ず
+    Kun'yomi: て
+## 文
+    Meanings: Writing, Sentence
+    On'yomi: ぶん、もん
+    Kun'yomi: ふみ
+## 日
+    Meanings: Sun, Day
+    On'yomi: にち、じつ
+    Kun'yomi: ひ、か、び
+## 木
+    Meanings: Tree, Wood
+    On'yomi: もく、ぼく
+    Kun'yomi: き、こ
+    Related Vocabulary:
+    - 木（き）： Tree
+## 水
+    Meanings: Water
+    On'yomi: すい
+    Kun'yomi: みず
+## 犬
+    Meanings: Dog
+    On'yomi: けん
+    Kun'yomi: いぬ
+## 出
+    Meanings: Exit
+    On'yomi: しゅつ
+    Kun'yomi: で、だ
+## 右
+    Meanings: Right
+    On'yomi: ゆう、う
+    Kun'yomi: みぎ
+## 左
+    Meanings: Left
+    On'yomi: さ
+    Kun'yomi: ひだろ
+## 本
+    Meanings: Book, Origin, Real, Main
+    On'yomi: ほん
+    Kun'yomi: もと
+## 正
+    Meanings: Correct
+    On'yomi: せい、しょう
+    Kun'yomi: ただ、まさ
+## 田
+    Meanings: Rice Paddy, Rice Field
+    On'yomi: でん
+    Kun'yomi: た
+## 白
+    Meanings: White
+    On'yomi: はく
+    Kun'yomi: しろ、しら
