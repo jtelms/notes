@@ -132,6 +132,7 @@
     - 人口（じんこう）: Population
     - 三人（さんにん）: Three People
     - 二人（ふたり）: Two People
+    - 人々（ひとびと）： People
 ## 力
     Meanings: Power, Strength, Ability
     On'yomi: りょく、りき
@@ -248,6 +249,16 @@
     Meanings: Sun, Day
     On'yomi: にち、じつ
     Kun'yomi: ひ、か、び
+    Related Vocabulary:
+    -　日（ひ）： Sun
+    - 六日（むいか）： Sixth Day
+    - 二日（ふつか）： Second Day
+    - 一日（いちにち・ついたち）： One Day/First Day
+    - 三日（みっか）： Third Day
+    - 七日（なのか）： Seventh Day
+    - 九日（ここのか）： Ninth Day
+    - 八日（ようか）： Eighth Day
+    - 十日（とおか）： Tenth Day
 ## 木
     Meanings: Tree, Wood
     On'yomi: もく、ぼく
@@ -290,3 +301,18 @@
     Meanings: White
     On'yomi: はく
     Kun'yomi: しろ、しら
+## 中
+    Meanings: Middle, In, Inside, Center
+    On'yomi: ちゅう
+## 天
+    Meanings: Heaven
+    On'yomi: てん
+## 月
+    Meanings: Moon, Month
+    On'yomi: げつ、がつ
+## 水
+    Meanings: Water
+    On'yomi: すい
+## 四
+    Meanings: Four
+    On'yomi: し
